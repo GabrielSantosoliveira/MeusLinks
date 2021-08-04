@@ -1,0 +1,58 @@
+@charset "uft-8";
+@import url('https://fonts.googleapis.com/css2?family=Yomogi&display=swap');
+
+
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+
+body{
+    background-color:#E8AEE2  ;
+}
+
+main{
+    background-color: white;
+    width: 72%;
+    margin: 6% auto;
+    padding:5%;
+    height:  80% ;
+    box-shadow: rgba(0, 0, 0, 0.308) 1px 2px 3px;
+
+}
+
+section{
+    padding:5%;
+    margin: 2% auto ; 
+    text-align: center;
+    
+}
+h1{
+    padding: 1%;
+    margin: 1%;
+    font-family: Yomogi ;
+}
+
+a{
+    padding: 2% ;
+    margin: 1%;    
+    font-family: 'Yomogi', cursive;
+    text-decoration: none;
+    text-decoration: dashed;
+    font-size: 150%;
+}
+a:hover{
+    color: #634B61;
+    font-size: 160%;
+}
+div{
+    
+    padding:1%;
+    margin: 4% ;
+    border-radius: 13px;
+    outline: solid #E8AEE2 2px ;
+}
+
+
+
